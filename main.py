@@ -118,7 +118,7 @@ def asistan(data):
 
 
 ##################################################################
-konuş("Konuşma modülü aktif...\nSes - Yazı Dönüşümü Aktif...\n Fonksiyonlar aktif...\n  Ben Valeria, Hizmete hazırım ")
+konuş("Ben Valeria, Hizmete hazırım ")
 while True:
     asistan(dinle())
 
